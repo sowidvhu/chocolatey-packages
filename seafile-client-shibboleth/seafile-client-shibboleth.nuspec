@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>seafile-client-shibboleth</id>
-    <version>5.1.1</version>
+    <version>6.0.6</version>
     <title>Seafile Client with Shibboleth</title>
     <authors>Seafile Ltd.</authors>
     <owners>sowidvhu</owners>
@@ -27,6 +27,6 @@ Seafile allows users to create groups with file syncing, wiki, and discussion to
 https://seacloud.cc/group/3/wiki/client-changelog
     </releaseNotes>
     <copyright>© Seafile Ltd.</copyright>
-    <tags>seafile syncing sharing shibboleth</tags>
+    <tags>seafile syncing sharing shibboleth admin</tags>
   </metadata>
 </package>
