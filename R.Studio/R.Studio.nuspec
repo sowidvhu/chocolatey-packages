@@ -5,7 +5,15 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>R.Studio</id>
     <title>R.Studio</title>
+<<<<<<< HEAD
     <version>1.0.153</version>
+=======
+<<<<<<< HEAD
+    <version>1.0.143</version>
+=======
+    <version>0.99.902</version>
+>>>>>>> 13459fddbc7f46ee7eabc49e94d212b47b8c39aa
+>>>>>>> 5fe8119c8e68e8b261f438b448e41bc34623a8dc
     <authors>R Studio Team</authors>
     <owners>Elliando Dias</owners>
     <summary>RStudio is a free and open source integrated development environment (IDE) for R. You can run it on your desktop</summary>
@@ -16,7 +24,15 @@
     <copyright>© 2017 RStudio, Inc</copyright>
     <licenseUrl>http://www.gnu.org/licenses/agpl-3.0-standalone.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+<<<<<<< HEAD
     <!--<iconUrl>https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png</iconUrl>-->
+=======
+<<<<<<< HEAD
+    <!--<iconUrl>https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png</iconUrl>-->
+=======
+    <!--<iconUrl>http://rstudio.org/images/logo.png</iconUrl>-->
+>>>>>>> 13459fddbc7f46ee7eabc49e94d212b47b8c39aa
+>>>>>>> 5fe8119c8e68e8b261f438b448e41bc34623a8dc
     <!--<dependencies>
       <dependency id="R.Project" />
     </dependencies>-->
