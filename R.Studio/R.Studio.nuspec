@@ -15,7 +15,7 @@
     <copyright>© 2017 RStudio, Inc</copyright>
     <licenseUrl>http://www.gnu.org/licenses/agpl-3.0-standalone.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <version>1.1.414</version>
+    <version>1.1.419</version>
     <!--<dependencies>
       <dependency id="R.Project" />
     </dependencies>-->
