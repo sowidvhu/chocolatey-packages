@@ -1,3 +1,3 @@
-﻿$checksum = '4d6521a9b89d70c3bf50414c8b6708f2'
-$checksumType = 'md5'
-Install-ChocolateyPackage 'R.Studio' 'exe' '/S' "https://download1.rstudio.org/desktop/windows/RStudio-1.2.5019.exe" -CheckSum $checksum -ChecksumType $checksumType -validExitCodes @(0)
+﻿$checksum = '7fd3bc1b7464ec0d69e1d88b12f3e824684a507b6431927441138986cda59226'
+$checksumType = 'sha256'
+Install-ChocolateyPackage 'R.Studio' 'exe' '/S' "https://download1.rstudio.org/desktop/windows/RStudio-1.2.5033.exe" -CheckSum $checksum -ChecksumType $checksumType -validExitCodes @(0)
